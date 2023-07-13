@@ -1,0 +1,12 @@
+# MINORS
+1. All about stats analysis - NO MAJOR OFFERED ONLY MINORS
+
+2. Applications in finance, Computer science, Economics
+
+3. COURSES OFFFERED - 
+    ![Alt text](image.png)
+
+4. 4 courses to be done for minor degree.
+![Alt text](image-5.png)
+
+5. 

@@ -1,0 +1,20 @@
+# MINOR INFO CS
+1. If enjoyed CS101 and problem solving 
+2. No Programming though, BIG-ASS-PROOFS to be written sometimes.
+3. Dont take up minor just for IITB CSE Tag.
+4. Less application, more algos in DSA, ML etc. *THEORY!!!*
+
+
+![Alt text](image-11.png)
+The 1st two courses are opening courses for the minor in 2nd year.
+DSA cutoff is a bit over 8+
+228 - FUN
+213 - Popular and tough to get (problem solvings)
+
+# MORE ABOUT CS MINORS
+![Alt text](image-15.png)
+NOTE - DONT TAKE UP THEM THINKING YOULL DO CODING
+
+
+# HOW TO COMPLETE MINOR
+![Alt text](image-16.png)

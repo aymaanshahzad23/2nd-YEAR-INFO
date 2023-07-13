@@ -1,0 +1,5 @@
+# INFO OF THE MINOR
+![Alt text](image-8.png)
+
+# TIPS WHILE DOING THE MINOR
+![Alt text](image-9.png)

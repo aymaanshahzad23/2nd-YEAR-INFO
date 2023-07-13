@@ -1,0 +1,18 @@
+ENT - 5 courses this autumn
+
+PROCESS OF REGISTRATION - 
+1. Pre Reg for 603 and 606
+2. Normal Reg for specialist course 609 (pre req is 603)
+3. Pre Reg & Google Form Selection for Capstone course 602
+Process starts around 1 week before normal registration.
+
+*AUTUMN*
+ENT101 - for 1st year
+ENT603 - intro to entrepreneurship 
+ENT609 - marketing and finance for entrep 
+ENT606 - developing of proof-of-concept
+
+*SPRING*
+ENT602 - tech venture creation - CAPSTONE COURSE (INDUSTRIAL LEVEL)
+ENT610 - managing innovation and IP for techpreneurs
+ENT606 - developing of proof-of-concept (Advanced)
