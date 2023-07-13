@@ -45,9 +45,9 @@ Secondary programs along with majors, these are Interdisciplinary (any dept mino
 # ELECTIVES
 1. Insti Electives - STEM, HASMED (from other departments)
 2. Dept Electives -
-    Advanced Electives - Dive Deeper in department
-    Interdisciplinary STEM - Related to department indirectly but from STEM
-    Interdisciplinary HASMED - Related to department indirectly but from HASMED 
+    * Advanced Electives - Dive Deeper in department
+    * Interdisciplinary STEM - Related to department indirectly but from STEM
+    * Interdisciplinary HASMED - Related to department indirectly but from HASMED 
 
 # ADDITIONAL LEARNING COURSES (ALCs)
 1. As many ALC as possible
@@ -71,7 +71,6 @@ Secondary programs along with majors, these are Interdisciplinary (any dept mino
 6. Does not show in transcript
 7. Just out of interest
 
-
 *REGISTRATION*
 1. From second year, apart from compulsory courses, complete curriculum is decided by student
 2. Always at beginning of a SEM
@@ -92,9 +91,6 @@ Secondary programs along with majors, these are Interdisciplinary (any dept mino
 4. after window, results in DR grade which means course dropped (shows up in transcript)
 5. Needs permission from fac-ad
 6. Generally comes  20-30 days after mid sems
-
-
-
 
 # COURSE SLOTS
 1. during reg or pre-reg, DO CHECK course slots on ASC
